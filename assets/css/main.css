@@ -800,10 +800,11 @@ button,
 
 /* Signup Form */
 #signup-form {
-  display: -moz-flex;
+  background-color: white;
+  /* display: -moz-flex;
   display: -webkit-flex;
-  display: -ms-flex;
-  display: flex;
+  display: -ms-flex; */
+  display: inline;
   position: relative; }
   #signup-form input[type="text"],
   #signup-form input[type="password"],
